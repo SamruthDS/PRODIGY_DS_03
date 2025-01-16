@@ -6,7 +6,7 @@ Build a decision tree classifier to predict customer purchase behavior using the
 
 ### Files
 - `Task3.R`: R script for training and evaluating a decision tree classifier.
-- `dataset.csv`: Bank Marketing dataset.
+- `bank-full.csv`: Bank Marketing dataset.
 
 ### How to Run
 1. Clone the repository or download it as a ZIP file.
